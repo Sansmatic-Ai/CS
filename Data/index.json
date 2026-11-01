@@ -1,0 +1,31 @@
+[
+  {
+    "id": "849ea3e6-a058-421d-99f6-3f5344c832f1",
+    "maskedName": "4***_.jpg",
+    "originalSize": 9157,
+    "encryptedSize": 12861,
+    "mimeType": "image/jpeg",
+    "uploadedAt": "2026-11-01T11:45:50.791Z",
+    "totalChunks": 1,
+    "localFiles": [
+      "payload_849ea3e6-a058-421d-99f6-3f5344c832f1.txt"
+    ],
+    "githubCommitted": true,
+    "githubCommitUrl": "",
+    "label": "Hha"
+  },
+  {
+    "id": "5e7dfb68-51e8-495b-809e-1380dd9e9fec",
+    "maskedName": "s***t.txt",
+    "originalSize": 59,
+    "encryptedSize": 689,
+    "mimeType": "text/plain",
+    "uploadedAt": "2026-10-10T14:04:45.193Z",
+    "totalChunks": 1,
+    "localFiles": [
+      "payload_5e7dfb68-51e8-495b-809e-1380dd9e9fec.txt"
+    ],
+    "githubCommitted": false,
+    "githubError": "GitHub Token or Repo not yet configured in token.txt. File preserved in local storage."
+  }
+]
