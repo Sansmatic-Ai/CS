@@ -1,20 +1,5 @@
 [
   {
-    "id": "2e639465-7a8a-4238-b233-6fb9beb33a84",
-    "maskedName": "4***_.jpg",
-    "originalSize": 9157,
-    "encryptedSize": 12862,
-    "mimeType": "image/jpeg",
-    "uploadedAt": "2026-11-01T21:32:28.137Z",
-    "totalChunks": 1,
-    "localFiles": [
-      "payload_2e639465-7a8a-4238-b233-6fb9beb33a84.txt"
-    ],
-    "githubCommitted": true,
-    "githubCommitUrl": "",
-    "label": "Milk"
-  },
-  {
     "id": "6ed7367e-d122-44de-8cad-be86b1499517",
     "maskedName": "D***h.mp3",
     "originalSize": 8150683,
